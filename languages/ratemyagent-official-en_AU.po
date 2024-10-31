@@ -1,0 +1,601 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RateMyAgent Tools\n"
+"POT-Creation-Date: 2022-09-05 11:04+1000\n"
+"PO-Revision-Date: 2022-09-05 11:50+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_AU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: rma-wordpress.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: admin/Settings/General/AdvancedTab/AdvancedSettings.php:36
+#: admin/Settings/General/AdvancedTab/partial.php:39
+#, fuzzy
+msgid "We could not access the cache folder"
+msgstr "We could not access the cache folder"
+
+#: admin/Settings/General/AdvancedTab/AdvancedSettings.php:42
+#, fuzzy
+msgid "Cache details has updated"
+msgstr "Cache details has updated"
+
+#: admin/Settings/General/AdvancedTab/AdvancedSettings.php:48
+#, fuzzy
+msgid "Cache has been clear"
+msgstr "Cache has been clear"
+
+#: admin/Settings/General/AdvancedTab/partial.php:9
+#, fuzzy
+msgid "Data sync"
+msgstr "Data sync"
+
+#: admin/Settings/General/AdvancedTab/partial.php:13
+#, fuzzy
+msgid "Hourly"
+msgstr "Hourly"
+
+#: admin/Settings/General/AdvancedTab/partial.php:14
+#, fuzzy
+msgid "Daily"
+msgstr "Daily"
+
+#: admin/Settings/General/AdvancedTab/partial.php:15
+#, fuzzy
+msgid "Weekly"
+msgstr "Weekly"
+
+#: admin/Settings/General/AdvancedTab/partial.php:16
+#, fuzzy
+msgid "Monthly"
+msgstr "Monthly"
+
+#: admin/Settings/General/AdvancedTab/partial.php:18
+#, fuzzy
+msgid "How often the data synchronises with the database. Daily recommended."
+msgstr "How often the data synchronises with the database. Daily recommended."
+
+#: admin/Settings/General/AdvancedTab/partial.php:27
+#, fuzzy
+msgid "Update cache settings"
+msgstr "Update cache settings"
+
+#: admin/Settings/General/AdvancedTab/partial.php:35
+#, fuzzy
+msgid "Clear cache"
+msgstr "Clear cache"
+
+#. Author of the plugin/theme
+#: admin/Settings/General/GeneralPage.php:20
+#: admin/Settings/General/partial.php:4 admin/Settings/SettingsLoader.php:25
+#: admin/Settings/Theme/partial.php:4 helpers/TemplateHelpers.php:46
+#: rma-wordpress.php:91
+#, fuzzy
+msgid "RateMyAgent"
+msgstr "RateMyAgent"
+
+#: admin/Settings/General/GeneralPage.php:21
+#, fuzzy
+msgid "Api"
+msgstr "Api"
+
+#: admin/Settings/General/SettingsTab/Settings.php:52
+#, fuzzy
+msgid "API credentials working correctly"
+msgstr "API credentials working correctly"
+
+#: admin/Settings/General/SettingsTab/Settings.php:62
+#, fuzzy
+msgid "API details reset"
+msgstr "API details reset"
+
+#: admin/Settings/General/SettingsTab/Settings.php:73
+#, fuzzy
+msgid "API credentials updated and working correctly"
+msgstr "API credentials updated and working correctly"
+
+#: admin/Settings/General/SettingsTab/partial.php:8
+msgid "Region"
+msgstr "Region"
+
+#: admin/Settings/General/SettingsTab/partial.php:12
+#: admin/SetupWizard/partial.php:33
+#, fuzzy
+msgid "Australia"
+msgstr "Australia"
+
+#: admin/Settings/General/SettingsTab/partial.php:13
+#: admin/SetupWizard/partial.php:34
+#, fuzzy
+msgid "New Zealand"
+msgstr "New Zealand"
+
+#: admin/Settings/General/SettingsTab/partial.php:14
+#: admin/SetupWizard/partial.php:35
+#, fuzzy
+msgid "United Stated"
+msgstr "United Stated"
+
+#: admin/Settings/General/SettingsTab/partial.php:20
+#: admin/SetupWizard/partial.php:60
+#, fuzzy
+msgid "Client ID"
+msgstr "Client ID"
+
+#: admin/Settings/General/SettingsTab/partial.php:30
+#: admin/SetupWizard/partial.php:67
+#, fuzzy
+msgid "Client secret"
+msgstr "Client secret"
+
+#: admin/Settings/General/SettingsTab/partial.php:39
+#: admin/SetupWizard/partial.php:92
+#, fuzzy
+msgid "Profile type"
+msgstr "Profile type"
+
+#: admin/Settings/General/SettingsTab/partial.php:51
+#: admin/SetupWizard/partial.php:102
+#, fuzzy
+msgid "Profile code"
+msgstr "Profile code"
+
+#: admin/Settings/General/SettingsTab/partial.php:64
+#, fuzzy
+msgid "Update API settings"
+msgstr "Update API settings"
+
+#: admin/Settings/General/SettingsTab/partial.php:73
+#, fuzzy
+msgid "Test API settings"
+msgstr "Test API settings"
+
+#: admin/Settings/General/SettingsTab/partial.php:83
+#, fuzzy
+msgid "Reset API settings"
+msgstr "Reset API settings"
+
+#: admin/Settings/General/partial.php:5 admin/Settings/Theme/partial.php:5
+#, fuzzy
+msgid "WordPress tools"
+msgstr "WordPress tools"
+
+#: admin/Settings/General/partial.php:10 rma-wordpress.php:75
+msgid "Settings"
+msgstr "Settings"
+
+#: admin/Settings/General/partial.php:12
+#, fuzzy
+msgid "Advanced Settings"
+msgstr "Advanced Settings"
+
+#: admin/Settings/GetStarted/GetStartedPage.php:20
+#, fuzzy
+msgid "Get started"
+msgstr "Get started"
+
+#: admin/Settings/GetStarted/GetStartedPage.php:21
+#: admin/Settings/GetStarted/partial.php:11
+#, fuzzy
+msgid "Get Started"
+msgstr "Get Started"
+
+#: admin/Settings/GetStarted/GetStartedPage.php:48
+#, fuzzy
+msgid "Social Proof"
+msgstr "Social Proof"
+
+#: admin/Settings/GetStarted/GetStartedPage.php:48
+#, fuzzy
+msgid ""
+"Showcase your reviews and promote your best customer experiences directly on "
+"your website."
+msgstr ""
+"Showcase your reviews and promote your best customer experiences directly on "
+"your website."
+
+#: admin/Settings/GetStarted/GetStartedPage.php:49
+#, fuzzy
+msgid "On Brand"
+msgstr "On Brand"
+
+#: admin/Settings/GetStarted/GetStartedPage.php:49
+#, fuzzy
+msgid ""
+"Simply copy and paste our pre-generated code onto your website to display "
+"your reviews in the perfect place."
+msgstr ""
+"Simply copy and paste our pre-generated code onto your website to display "
+"your reviews in the perfect place."
+
+#: admin/Settings/GetStarted/GetStartedPage.php:50
+#, fuzzy
+msgid "Boost SEO"
+msgstr "Boost SEO"
+
+#: admin/Settings/GetStarted/GetStartedPage.php:50
+#, fuzzy
+msgid ""
+"Give your reviews a branded look by choosing the colors and design best "
+"suited to your business."
+msgstr ""
+"Give your reviews a branded look by choosing the colors and design best "
+"suited to your business."
+
+#: admin/Settings/GetStarted/partial.php:5
+#, fuzzy
+msgid "Set up now to start displaying your reviews"
+msgstr "Set up now to start displaying your reviews"
+
+#: admin/Settings/GetStarted/partial.php:7
+#, fuzzy
+msgid "Set up your plugin in minutes to start displaying your reviews"
+msgstr "Set up your plugin in minutes to start displaying your reviews"
+
+#: admin/Settings/GetStarted/partial.php:13
+#, fuzzy
+msgid "Learn more"
+msgstr "Learn"
+
+#: admin/Settings/GetStarted/partial.php:18
+#, fuzzy
+msgid "The best review plugin for Real Estate professionals"
+msgstr "The best review plugin for Real Estate professionals"
+
+#: admin/Settings/Theme/ThemePane.php:25
+#, fuzzy
+msgid "RateMyAgent theme settings"
+msgstr "RateMyAgent theme settings"
+
+#: admin/Settings/Theme/ThemePane.php:25 admin/Settings/Theme/partial.php:11
+#, fuzzy
+msgid "Theme"
+msgstr "Theme"
+
+#: admin/Settings/Theme/ThemePane.php:51
+#, fuzzy
+msgid "Theme settings have been updated"
+msgstr "Theme settings have been updated"
+
+#: admin/Settings/Theme/partial.php:18
+#, fuzzy
+msgid "Star colour"
+msgstr "Star colour"
+
+#: admin/Settings/Theme/partial.php:27
+#, fuzzy
+msgid "Primary text colour"
+msgstr "Primary text colour"
+
+#: admin/Settings/Theme/partial.php:36
+#, fuzzy
+msgid "Secondary text color"
+msgstr "Secondary text color"
+
+#: admin/Settings/Theme/partial.php:45
+#, fuzzy
+msgid "Background colour"
+msgstr "Background colour"
+
+#: admin/Settings/Theme/partial.php:54
+#, fuzzy
+msgid "Pagination dots"
+msgstr "Pagination dots"
+
+#: admin/Settings/Theme/partial.php:65
+#, fuzzy
+msgid "Update theme settings"
+msgstr "Update theme settings"
+
+#: admin/SetupWizard/SetupWizardPage.php:35
+#, fuzzy
+msgid "RateMyAgent Setup Wizard"
+msgstr "RateMyAgent Setup Wizard"
+
+#: admin/SetupWizard/SetupWizardPage.php:36
+#, fuzzy
+msgid "Setup Wizard"
+msgstr "Setup Wizard"
+
+#: admin/SetupWizard/partial.php:7
+#, fuzzy
+msgid "Congrats! You're all connected and ready to go!"
+msgstr "Congrats! You're all connected and ready to go!"
+
+#: admin/SetupWizard/partial.php:8
+#, fuzzy
+msgid ""
+"Get introduced to our plugin by watching our getting started video. It will "
+"guide you through the steps needed to add and customise your RateMyAgent "
+"reviews for your website. "
+msgstr ""
+"Get introduced to our plugin by watching our getting started video. It will "
+"guide you through the steps needed to add and customise your RateMyAgent "
+"reviews for your website."
+
+#: admin/SetupWizard/partial.php:12
+#, fuzzy
+msgid "Add reviews to a page"
+msgstr "Add reviews to a page"
+
+#: admin/SetupWizard/partial.php:14
+#, fuzzy
+msgid "Update your theme"
+msgstr "Update your theme"
+
+#: admin/SetupWizard/partial.php:23
+#, fuzzy, php-format
+msgid "Step %s of %s"
+msgstr "Step %s of %s"
+
+#: admin/SetupWizard/partial.php:29
+#, fuzzy
+msgid "Your Region"
+msgstr "Your Region"
+
+#: admin/SetupWizard/partial.php:30
+#, fuzzy
+msgid "Select what region you're in"
+msgstr "Select what region you're in"
+
+#: admin/SetupWizard/partial.php:43
+msgid "Next"
+msgstr "Next"
+
+#: admin/SetupWizard/partial.php:50
+#, fuzzy
+msgid "Add your API Details"
+msgstr "Add your details"
+
+#: admin/SetupWizard/partial.php:53
+#, fuzzy
+msgid "Add your RateMyAgent details to connect your account. You can"
+msgstr "Add your RateMyAgent details to connect your account. You can"
+
+#: admin/SetupWizard/partial.php:55
+#, fuzzy
+msgid "generate your keys here"
+msgstr "generate your keys here"
+
+#: admin/SetupWizard/partial.php:78 admin/SetupWizard/partial.php:113
+#, fuzzy
+msgid "Confirm"
+msgstr "Confirm"
+
+#: admin/SetupWizard/partial.php:85
+#, fuzzy
+msgid "Your profile details"
+msgstr "Your profile details"
+
+#: admin/SetupWizard/partial.php:87
+#, fuzzy
+msgid "Select your account type and add your agent code. You can "
+msgstr "Select your account type and add your agent code. You can"
+
+#: admin/SetupWizard/partial.php:89
+#, fuzzy
+msgid "get your profile code here."
+msgstr "get your profile code here."
+
+#: blocks/ListingCarousel/Block/edit.js:45
+#: blocks/ReviewCarousel/Block/edit.js:45
+#, fuzzy
+msgid "Profile Details"
+msgstr "Profile Details"
+
+#: blocks/ListingCarousel/Block/edit.js:48
+#: blocks/ReviewCarousel/Block/edit.js:48
+#, fuzzy
+msgid "Profile Type"
+msgstr "Profile Type"
+
+#: blocks/ListingCarousel/Block/edit.js:66
+#: blocks/ReviewCarousel/Block/edit.js:70
+#, fuzzy
+msgid "Profile Code"
+msgstr "Profile Code"
+
+#: blocks/ListingCarousel/Block/edit.js:82
+#: blocks/ReviewCarousel/Block/edit.js:86 helpers/ProfileTypes.php:11
+#, fuzzy
+msgid "Agent"
+msgstr "Agent"
+
+#: blocks/ListingCarousel/Block/edit.js:101
+#: blocks/ReviewCarousel/Block/edit.js:122
+#, fuzzy
+msgid "Template"
+msgstr "Template"
+
+#: blocks/ListingCarousel/Block/edit.js:104
+#: blocks/ReviewCarousel/Block/edit.js:125
+msgid "Type"
+msgstr "Type"
+
+#: blocks/ListingCarousel/Shortcode/partials/multi-card-template.partial.php:13
+#, fuzzy
+msgid "Price undisclosed"
+msgstr "Price undisclosed"
+
+#: blocks/ListingCarousel/Shortcode/partials/multi-card-template.partial.php:61
+#: blocks/ReviewCarousel/Shortcode/partials/multi-card-template.partial.php:44
+#, fuzzy
+msgid "Read more"
+msgstr "Read more"
+
+#: blocks/ListingCarousel/Shortcode/partials/multi-card-template.partial.php:75
+#, fuzzy
+msgid "Read our reviews on "
+msgstr "Read our reviews on"
+
+#: blocks/ListingCarousel/Shortcode/partials/multi-card-template.partial.php:77
+#, fuzzy
+msgid "Read my reviews on "
+msgstr "Read my reviews on"
+
+#: blocks/ListingCarousel/Shortcode/partials/multi-card-template.partial.php:86
+#: blocks/ReviewCarousel/Shortcode/partials/full-review-template.partial.php:61
+#: blocks/ReviewCarousel/Shortcode/partials/multi-card-template.partial.php:83
+#, fuzzy
+msgid ""
+"There were no results returned. This message is not shown to public users."
+msgstr ""
+"There were no results returned. This message is not shown to public users."
+
+#: blocks/ReviewCarousel/Block/edit.js:106
+#, fuzzy
+msgid "Review Type"
+msgstr "Review Type"
+
+#: blocks/ReviewCarousel/Block/edit.js:133
+#, fuzzy
+msgid "Heading"
+msgstr "Heading"
+
+#: blocks/ReviewCarousel/Shortcode/ReviewCarouselShortcode.php:43
+#, fuzzy
+msgid ""
+"There was an error getting you data. This will not been displayed to the "
+"public."
+msgstr ""
+"There was an error getting you data. This will not been displayed to the "
+"public."
+
+#: blocks/ReviewCarousel/Shortcode/partials/full-review-template.partial.php:28
+#: blocks/ReviewCarousel/Shortcode/partials/multi-card-template.partial.php:48
+#, fuzzy
+msgid "Reviewed by"
+msgstr "Reviewed by"
+
+#: blocks/ReviewCarousel/Shortcode/partials/full-review-template.partial.php:50
+#: blocks/ReviewCarousel/Shortcode/partials/full-review-template.partial.php:52
+#: blocks/ReviewCarousel/Shortcode/partials/multi-card-template.partial.php:72
+#, fuzzy
+msgid "Read more of our reviews on "
+msgstr "Read more of our reviews on"
+
+#: blocks/ReviewCarousel/Shortcode/partials/multi-card-template.partial.php:28
+#, fuzzy
+msgid "reviews"
+msgstr "Reviews"
+
+#: blocks/ReviewCarousel/Shortcode/partials/multi-card-template.partial.php:74
+#, fuzzy
+msgid "Read more of my reviews on "
+msgstr "Read more of my reviews on"
+
+#: cache/Exceptions/KeyNotFoundInCacheException.php:16
+#, fuzzy
+msgid "Key was not found in cache."
+msgstr "Key was not found in cache."
+
+#: data-access/Exceptions/AuthTokenException.php:14
+#, fuzzy
+msgid ""
+"There was an error retrieving the token. Please check the credentials and "
+"try again."
+msgstr ""
+"There was an error retrieving the token. Please check the credentials and "
+"try again."
+
+#: data-access/Exceptions/InvalidAuthRequestException.php:13
+#, fuzzy
+msgid ""
+"There was an error making the request. Please check the credentials and try "
+"again."
+msgstr ""
+"There was an error making the request. Please check the credentials and try "
+"again."
+
+#: data-access/Exceptions/MissingCredentialsException.php:13
+#, fuzzy
+msgid "Please enter your API credentials in the RateMyAgent settings"
+msgstr "Please enter your API credentials in the RateMyAgent settings"
+
+#: data-access/Exceptions/MissingProfileCodeException.php:13
+#, fuzzy
+msgid "Please add your profile code."
+msgstr "Please add your profile code."
+
+#: helpers/Exceptions/ForbiddenException.php:19
+#, fuzzy
+msgid "You do not have permission to view that asset"
+msgstr "You do not have permission to view that asset"
+
+#: helpers/Exceptions/NoResultsException.php:19
+#, fuzzy, php-format
+msgid "No Results where returned from Dev API for : %s"
+msgstr "No Results where returned from Dev API for : %s"
+
+#: helpers/ProfileTypes.php:12
+#, fuzzy
+msgid "Agency"
+msgstr "Agency"
+
+#: helpers/ProfileTypes.php:16
+#, fuzzy
+msgid "Mortgage Broker"
+msgstr "Mortgage Broker"
+
+#: internal-api/ListingCarouselApi.php:52 internal-api/ReviewCarouselApi.php:55
+#, fuzzy
+msgid "Full"
+msgstr "Full"
+
+#: internal-api/ReviewCarouselApi.php:56
+#, fuzzy
+msgid "No property image"
+msgstr "No property image"
+
+#: internal-api/ReviewCarouselApi.php:57
+#, fuzzy
+msgid "Full review"
+msgstr "Full review"
+
+#: internal-api/ReviewCarouselApi.php:64
+#, fuzzy
+msgid "Sales"
+msgstr "SALES"
+
+#: internal-api/ReviewCarouselApi.php:65
+#, fuzzy
+msgid "Leasing"
+msgstr "Leasing"
+
+#: options/Exceptions/OptionNotFoundException.php:19
+#, fuzzy, php-format
+msgid "There is no option for : %s"
+msgstr "There is no option for : %s"
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid "RateMyAgent Tools"
+msgstr "RateMyAgent Tools"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://rmaplugin.com/"
+msgstr "https://rmaplugin.com/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "Tools for bringing RateMyAgent into your Wordpress"
+msgstr "Tools for bringing RateMyAgent into your Wordpress"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://www.ratemyagent.com"
+msgstr "https://www.ratemyagent.com"

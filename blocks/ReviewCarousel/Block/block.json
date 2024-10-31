@@ -1,0 +1,45 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "ratemyagent/review-carousel",
+  "version": "0.0.1",
+  "title": "Review Carousel",
+  "category": "ratemyagent",
+  "icon": "slides",
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "default": ""
+    },
+    "profile_code": {
+      "type": "string",
+      "default": ""
+    },
+    "profile_type": {
+      "type": "string",
+      "default": ""
+    },
+    "template_type": {
+      "type": "string",
+      "default": "full"
+    },
+    "is_leasing": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "example": {
+    "attributes": {
+      "profile_code": "aaa000",
+      "profile_type": "agent",
+      "template_type": "full"
+    }
+  },
+  "supports": {
+    "html": false
+  },
+  "textdomain": "ratemyagent",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}
